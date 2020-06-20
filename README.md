@@ -1,1 +1,1 @@
-# goit-react-hw-02-ph0nebook
+# goit-react-hw-02-phonebook
